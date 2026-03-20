@@ -1,16 +1,16 @@
-## Hi there 👋
+# David Woitzik
+Infrastructure & Operations
 
-<!--
-**dwoitzik/dwoitzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focused on building and managing resilient systems through Infrastructure as Code (IaC) and network security.
 
-Here are some ideas to get you started:
+### Technical Stack
+* **Virtualization:** Proxmox VE
+* **Networking:** MikroTik RouterOS
+* **Automation:** Terraform, Ansible
+* **Cloud:** Microsoft Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+* [homelab-infrastructure](https://github.com/dwoitzik/homelab-infrastructure) - Environment managed via IaC.
+
+### Contact
+[woitzik.dev](https://woitzik.dev) | [LinkedIn](https://www.linkedin.com/in/david-woitzik/) | david@woitzik.dev
