@@ -1,16 +1,19 @@
 # David Woitzik
-Infrastructure & Operations
+**System Engineer | Infrastructure & Automation**
 
-Focused on building and managing resilient systems through Infrastructure as Code (IaC) and network security.
+Focused on automating secure, scalable cloud and on-prem environments using Infrastructure as Code (IaC). 
 
-### Technical Stack
-* **Virtualization:** Proxmox VE
-* **Networking:** MikroTik RouterOS
-* **Automation:** Terraform, Ansible
-* **Cloud:** Microsoft Azure
+### 🛠 Technical Stack
+* **IaC & Automation:** Terraform, OpenTofu, Ansible
+* **Cloud & Virtualization:** Microsoft Azure, Proxmox VE
+* **Networking & Security:** MikroTik RouterOS, Linux Hardening, CIS Benchmarks
 
-### Projects
-* [homelab-infrastructure](https://github.com/dwoitzik/homelab-infrastructure) - Environment managed via IaC.
+### 🏗 Projects & Engineering
+* **[proxmox-iac-automation](https://github.com/dwoitzik/homelab-infrastructure)** — Complete lifecycle management for bare-metal virtualization using Terraform and Ansible.
 
-### Contact
-[woitzik.dev](https://woitzik.dev) | [LinkedIn](https://www.linkedin.com/in/david-woitzik/) | david@woitzik.dev
+### 📦 Infrastructure Blueprints
+Building production-ready, reusable infrastructure templates to speed up secure deployments. 
+👉 **[woitzik.dev](https://woitzik.dev)**
+
+### 📬 Contact
+[LinkedIn](https://www.linkedin.com/in/david-woitzik/) | david@woitzik.dev
